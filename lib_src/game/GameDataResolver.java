@@ -22,6 +22,7 @@ public class GameDataResolver {
 	private static GameDataResolver instance;
 	private static Object LOCK = new Object();
 	public static final List<String> COMPANIES = Arrays.asList((new File("data")).list());
+
 	private final Map<String, GameData> data = new HashMap<String, GameData>();
 
 	private GameDataResolver() {
@@ -60,16 +61,18 @@ public class GameDataResolver {
 
 	public GameData getGameData(String company) {
 		GameData gameData = (GameData) data.get(company);
-		if (gameData == null)
+		if (gameData == null) {
 			throw new IllegalArgumentException("supplied company is invalid");
-		else
+		} else {
 			return gameData;
+		}
 	}
 
 	public static GameDataResolver getInstance() {
 		synchronized (LOCK) {
-			if (instance == null)
+			if (instance == null) {
 				instance = new GameDataResolver();
+			}
 		}
 		return instance;
 	}

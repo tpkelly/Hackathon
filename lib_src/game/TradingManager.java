@@ -32,6 +32,16 @@ public final class TradingManager {
 		return (int) ((double) sharesOwned * input.getClose());
 	}
 
+	/**
+	 * Buys a number of shares worth the amount given based on the close price
+	 * of the input
+	 * 
+	 * @param input
+	 * @param value
+	 * @return
+	 * @throws InsufficientFundsException
+	 *             if there are less funds available than the given value
+	 */
 	public DailyOutput buySharesOfValue(DailyInput input, int value) throws InsufficientFundsException {
 		if (value < 0) {
 			throw new IllegalArgumentException("Negative number given");
@@ -45,6 +55,16 @@ public final class TradingManager {
 		}
 	}
 
+	/**
+	 * Buys the given number of shares at the close price of the input
+	 * 
+	 * @param input
+	 * @param totalShares
+	 * @return
+	 * @throws InsufficientFundsException
+	 *             if there are insufficient funds to buy the number of shares
+	 *             requested
+	 */
 	public DailyOutput buyNumberOfShares(DailyInput input, int totalShares) throws InsufficientFundsException {
 		if (totalShares < 0) {
 			throw new IllegalArgumentException("Negative number given");
@@ -57,6 +77,15 @@ public final class TradingManager {
 		}
 	}
 
+	/**
+	 * Uses all of the available funds to buy as many shares as possible at the
+	 * close price of the input. Note that after this trade, the available
+	 * balance may not be zero as the available funds may not be exactly
+	 * divisible by the close price.
+	 * 
+	 * @param input
+	 * @return
+	 */
 	public DailyOutput buyMaxNumberOfShares(DailyInput input) {
 		int sharesToBuy = (int) ((double) availableFunds / input.getClose());
 		TradeActivity activity = new TradeActivity(sharesToBuy, 0);
@@ -69,6 +98,17 @@ public final class TradingManager {
 		}
 	}
 
+	/**
+	 * Sells a number of shares worth the amount given based on the close price
+	 * of the input.
+	 * 
+	 * @param input
+	 * @param value
+	 * @return
+	 * @throws InsufficientSharesException
+	 *             if there are insufficient shares to the value of the given
+	 *             input
+	 */
 	public DailyOutput sellSharesOfValue(DailyInput input, int value) throws InsufficientSharesException {
 		if (value < 0) {
 			throw new IllegalArgumentException("Negative number given");
@@ -82,6 +122,16 @@ public final class TradingManager {
 		}
 	}
 
+	/**
+	 * Sells the given number of shares at the close price of the input
+	 * 
+	 * @param input
+	 * @param totalShares
+	 * @return
+	 * @throws InsufficientSharesException
+	 *             if there are insufficient shares currently held to sell the
+	 *             number of shares requested
+	 */
 	public DailyOutput sellNumberOfShares(DailyInput input, int totalShares) throws InsufficientSharesException {
 		if (totalShares < 0) {
 			throw new IllegalArgumentException("Negative number given");
@@ -94,6 +144,12 @@ public final class TradingManager {
 		}
 	}
 
+	/**
+	 * Sells all currently held shares
+	 * 
+	 * @param input
+	 * @return
+	 */
 	public DailyOutput sellAllShares(DailyInput input) {
 		TradeActivity activity = new TradeActivity(0, sharesOwned);
 		try {
@@ -105,6 +161,12 @@ public final class TradingManager {
 		}
 	}
 
+	/**
+	 * Complete no trade activity
+	 * 
+	 * @param input
+	 * @return
+	 */
 	public DailyOutput doNothing(DailyInput input) {
 		TradeActivity activity = new TradeActivity(0, 0);
 		try {

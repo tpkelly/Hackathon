@@ -1,12 +1,17 @@
 package trading;
 
 import game.DailyOutput;
+import game.TradingManager;
 import tradingstrategy.BaseTradingStrategy;
 import dataobjects.DailyInput;
 import exceptions.InsufficientFundsException;
 import exceptions.InsufficientSharesException;
 
 public class TradingStrategy extends BaseTradingStrategy {
+
+	public TradingStrategy(TradingManager tradingManager) {
+		super.tradingManager = tradingManager;
+	}
 
 	@Override
 	public DailyOutput makeDailyTrade(DailyInput input) throws InsufficientFundsException, InsufficientSharesException {

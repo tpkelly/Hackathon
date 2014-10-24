@@ -8,7 +8,7 @@ import exceptions.InsufficientSharesException;
 
 public abstract class BaseTradingStrategy {
 
-	protected final TradingManager tradingManager;
+	protected TradingManager tradingManager;
 
 	protected BaseTradingStrategy() {
 		tradingManager = new TradingManager();

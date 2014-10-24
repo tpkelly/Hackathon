@@ -26,9 +26,7 @@ public class GameDataResolver {
 	private final Map<String, GameData> data = new HashMap<String, GameData>();
 
 	private GameDataResolver() {
-		for (String file : COMPANIES) {
-			String company = file.split("\\.")[0];
-			System.out.println("Loading data for company: " + company);
+		for (String company : COMPANIES) {
 			try {
 				data.put(company, createGameData(company));
 			} catch (JsonParseException e) {
@@ -40,7 +38,7 @@ public class GameDataResolver {
 	}
 
 	private GameData createGameData(String company) throws JsonParseException, IOException {
-		InputStream resourceAsStream = new FileInputStream("data" + File.separator + company + (".json"));
+		InputStream resourceAsStream = new FileInputStream("data" + File.separator + company);
 
 		ObjectMapper mapper = new ObjectMapper();
 		JsonNode jsonNode = mapper.readTree(resourceAsStream);

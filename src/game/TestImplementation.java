@@ -7,7 +7,7 @@ import dataobjects.GameOutput;
 import exceptions.GameFailureException;
 
 public class TestImplementation {
-	static final int initialFunds = 1000;
+	static final int initialFunds = 10000;
 
 	public static void main(String[] args) throws GameFailureException {
 		
@@ -24,10 +24,10 @@ public class TestImplementation {
 	
 			GameOutput output = game.getResult();
 	
-			System.out.println(company + ": £" + output.getTotalFunds());
+			System.out.println(company + ": Â£" + output.getTotalFunds());
 			totalRevenue += output.getTotalFunds();
 		}
 		
-		System.out.println("Total revenue: £" + totalRevenue);
+		System.out.println("Total revenue: Â£" + totalRevenue);
 	}
 }

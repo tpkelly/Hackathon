@@ -1,0 +1,2000 @@
+[{
+	remainingDays: 249,
+	open: 26.55,
+	close: 26.77,
+	high: 26.96,
+	low: 26.39,
+	day: 1
+},
+{
+	remainingDays: 248,
+	open: 26.82,
+	close: 27.4,
+	high: 27.47,
+	low: 26.78,
+	day: 2
+},
+{
+	remainingDays: 247,
+	open: 27.38,
+	close: 27.68,
+	high: 27.73,
+	low: 27.29,
+	day: 3
+},
+{
+	remainingDays: 246,
+	open: 27.53,
+	close: 28.11,
+	high: 28.19,
+	low: 27.53,
+	day: 4
+},
+{
+	remainingDays: 245,
+	open: 28.05,
+	close: 27.74,
+	high: 28.1,
+	low: 27.72,
+	day: 5
+},
+{
+	remainingDays: 244,
+	open: 27.93,
+	close: 27.84,
+	high: 28.15,
+	low: 27.75,
+	day: 6
+},
+{
+	remainingDays: 243,
+	open: 27.43,
+	close: 27.72,
+	high: 27.98,
+	low: 27.37,
+	day: 7
+},
+{
+	remainingDays: 242,
+	open: 27.87,
+	close: 28,
+	high: 28.02,
+	low: 27.65,
+	day: 8
+},
+{
+	remainingDays: 241,
+	open: 27.93,
+	close: 28.25,
+	high: 28.25,
+	low: 27.79,
+	day: 9
+},
+{
+	remainingDays: 240,
+	open: 28.4,
+	close: 28.26,
+	high: 28.65,
+	low: 28.17,
+	day: 10
+},
+{
+	remainingDays: 239,
+	open: 28.31,
+	close: 28.23,
+	high: 28.4,
+	low: 27.97,
+	day: 11
+},
+{
+	remainingDays: 238,
+	open: 28.16,
+	close: 28.12,
+	high: 28.44,
+	low: 28.03,
+	day: 12
+},
+{
+	remainingDays: 237,
+	open: 28.82,
+	close: 29.71,
+	high: 29.74,
+	low: 28.75,
+	day: 13
+},
+{
+	remainingDays: 236,
+	open: 29.55,
+	close: 29.73,
+	high: 29.95,
+	low: 29.35,
+	day: 14
+},
+{
+	remainingDays: 235,
+	open: 29.47,
+	close: 29.34,
+	high: 29.57,
+	low: 29.18,
+	day: 15
+},
+{
+	remainingDays: 234,
+	open: 29.07,
+	close: 29.56,
+	high: 29.65,
+	low: 29.07,
+	day: 16
+},
+{
+	remainingDays: 233,
+	open: 29.61,
+	close: 29.5,
+	high: 29.7,
+	low: 29.4,
+	day: 17
+},
+{
+	remainingDays: 232,
+	open: 29.45,
+	close: 29.23,
+	high: 29.53,
+	low: 29.17,
+	day: 18
+},
+{
+	remainingDays: 231,
+	open: 28.97,
+	close: 29.61,
+	high: 29.62,
+	low: 28.83,
+	day: 19
+},
+{
+	remainingDays: 230,
+	open: 29.66,
+	close: 29.53,
+	high: 29.7,
+	low: 29.23,
+	day: 20
+},
+{
+	remainingDays: 229,
+	open: 29.79,
+	close: 29.89,
+	high: 30.05,
+	low: 29.76,
+	day: 21
+},
+{
+	remainingDays: 228,
+	open: 29.9,
+	close: 29.95,
+	high: 30.17,
+	low: 29.71,
+	day: 22
+},
+{
+	remainingDays: 227,
+	open: 30.14,
+	close: 30.24,
+	high: 30.4,
+	low: 30.09,
+	day: 23
+},
+{
+	remainingDays: 226,
+	open: 30.04,
+	close: 30.2,
+	high: 30.22,
+	low: 29.97,
+	day: 24
+},
+{
+	remainingDays: 225,
+	open: 30.15,
+	close: 30.35,
+	high: 30.49,
+	low: 30.05,
+	day: 25
+},
+{
+	remainingDays: 224,
+	open: 30.26,
+	close: 30.66,
+	high: 30.67,
+	low: 30.22,
+	day: 26
+},
+{
+	remainingDays: 223,
+	open: 30.68,
+	close: 30.77,
+	high: 30.8,
+	low: 30.48,
+	day: 27
+},
+{
+	remainingDays: 222,
+	open: 30.64,
+	close: 30.5,
+	high: 30.8,
+	low: 30.36,
+	day: 28
+},
+{
+	remainingDays: 221,
+	open: 30.63,
+	close: 30.58,
+	high: 30.77,
+	low: 30.43,
+	day: 29
+},
+{
+	remainingDays: 220,
+	open: 30.33,
+	close: 30.25,
+	high: 30.46,
+	low: 29.85,
+	day: 30
+},
+{
+	remainingDays: 219,
+	open: 30.33,
+	close: 30.05,
+	high: 30.39,
+	low: 30.03,
+	day: 31
+},
+{
+	remainingDays: 218,
+	open: 30.31,
+	close: 31.29,
+	high: 31.55,
+	low: 30.3,
+	day: 32
+},
+{
+	remainingDays: 217,
+	open: 31.2,
+	close: 31.25,
+	high: 31.32,
+	low: 30.95,
+	day: 33
+},
+{
+	remainingDays: 216,
+	open: 31.18,
+	close: 31.44,
+	high: 31.61,
+	low: 31.15,
+	day: 34
+},
+{
+	remainingDays: 215,
+	open: 31.45,
+	close: 31.27,
+	high: 31.68,
+	low: 31.18,
+	day: 35
+},
+{
+	remainingDays: 214,
+	open: 31.2,
+	close: 31.37,
+	high: 31.59,
+	low: 31,
+	day: 36
+},
+{
+	remainingDays: 213,
+	open: 31.48,
+	close: 31.48,
+	high: 31.5,
+	low: 31.24,
+	day: 37
+},
+{
+	remainingDays: 212,
+	open: 31.24,
+	close: 31.35,
+	high: 31.5,
+	low: 31.1,
+	day: 38
+},
+{
+	remainingDays: 211,
+	open: 31.41,
+	close: 31.87,
+	high: 31.93,
+	low: 31.38,
+	day: 39
+},
+{
+	remainingDays: 210,
+	open: 31.89,
+	close: 31.74,
+	high: 32,
+	low: 31.61,
+	day: 40
+},
+{
+	remainingDays: 209,
+	open: 31.93,
+	close: 32.29,
+	high: 32.39,
+	low: 31.85,
+	day: 41
+},
+{
+	remainingDays: 208,
+	open: 32.31,
+	close: 32.08,
+	high: 32.44,
+	low: 32,
+	day: 42
+},
+{
+	remainingDays: 207,
+	open: 32.01,
+	close: 31.8,
+	high: 32.05,
+	low: 31.62,
+	day: 43
+},
+{
+	remainingDays: 206,
+	open: 31.54,
+	close: 31.56,
+	high: 31.98,
+	low: 31.49,
+	day: 44
+},
+{
+	remainingDays: 205,
+	open: 31.67,
+	close: 31.84,
+	high: 31.92,
+	low: 31.53,
+	day: 45
+},
+{
+	remainingDays: 204,
+	open: 32.04,
+	close: 32.01,
+	high: 32.21,
+	low: 31.9,
+	day: 46
+},
+{
+	remainingDays: 203,
+	open: 32.1,
+	close: 31.99,
+	high: 32.16,
+	low: 31.92,
+	day: 47
+},
+{
+	remainingDays: 202,
+	open: 31.97,
+	close: 32.04,
+	high: 32.2,
+	low: 31.82,
+	day: 48
+},
+{
+	remainingDays: 201,
+	open: 32.24,
+	close: 32.67,
+	high: 32.69,
+	low: 32.15,
+	day: 49
+},
+{
+	remainingDays: 200,
+	open: 32.53,
+	close: 32.77,
+	high: 32.88,
+	low: 32.49,
+	day: 50
+},
+{
+	remainingDays: 199,
+	open: 32.79,
+	close: 32.85,
+	high: 32.94,
+	low: 32.58,
+	day: 51
+},
+{
+	remainingDays: 198,
+	open: 32.91,
+	close: 32.6,
+	high: 32.95,
+	low: 32.5,
+	day: 52
+},
+{
+	remainingDays: 197,
+	open: 32.54,
+	close: 32.2,
+	high: 32.61,
+	low: 32.15,
+	day: 53
+},
+{
+	remainingDays: 196,
+	open: 32.1,
+	close: 31.99,
+	high: 32.15,
+	low: 31.74,
+	day: 54
+},
+{
+	remainingDays: 195,
+	open: 31.96,
+	close: 31.91,
+	high: 32.15,
+	low: 31.82,
+	day: 55
+},
+{
+	remainingDays: 194,
+	open: 31.81,
+	close: 32,
+	high: 32.09,
+	low: 31.79,
+	day: 56
+},
+{
+	remainingDays: 193,
+	open: 32.1,
+	close: 32.01,
+	high: 32.11,
+	low: 31.72,
+	day: 57
+},
+{
+	remainingDays: 192,
+	open: 32.19,
+	close: 32.59,
+	high: 32.61,
+	low: 32.15,
+	day: 58
+},
+{
+	remainingDays: 191,
+	open: 32.65,
+	close: 32.52,
+	high: 32.7,
+	low: 32.4,
+	day: 59
+},
+{
+	remainingDays: 190,
+	open: 32.52,
+	close: 32.19,
+	high: 32.7,
+	low: 32.04,
+	day: 60
+},
+{
+	remainingDays: 189,
+	open: 32.06,
+	close: 32.12,
+	high: 32.19,
+	low: 31.81,
+	day: 61
+},
+{
+	remainingDays: 188,
+	open: 32.4,
+	close: 32.26,
+	high: 32.41,
+	low: 32.04,
+	day: 62
+},
+{
+	remainingDays: 187,
+	open: 32.22,
+	close: 32.29,
+	high: 32.46,
+	low: 31.95,
+	day: 63
+},
+{
+	remainingDays: 186,
+	open: 32.16,
+	close: 31.94,
+	high: 32.19,
+	low: 31.66,
+	day: 64
+},
+{
+	remainingDays: 185,
+	open: 31.66,
+	close: 31.21,
+	high: 31.69,
+	low: 31.05,
+	day: 65
+},
+{
+	remainingDays: 184,
+	open: 31.15,
+	close: 31.52,
+	high: 31.63,
+	low: 31.05,
+	day: 66
+},
+{
+	remainingDays: 183,
+	open: 31.22,
+	close: 31.1,
+	high: 31.4,
+	low: 30.97,
+	day: 67
+},
+{
+	remainingDays: 182,
+	open: 31.06,
+	close: 30.47,
+	high: 31.19,
+	low: 30.3,
+	day: 68
+},
+{
+	remainingDays: 181,
+	open: 30.43,
+	close: 30.35,
+	high: 30.53,
+	low: 30.23,
+	day: 69
+},
+{
+	remainingDays: 180,
+	open: 30.48,
+	close: 30.98,
+	high: 31.04,
+	low: 30.42,
+	day: 70
+},
+{
+	remainingDays: 179,
+	open: 30.89,
+	close: 30.81,
+	high: 31.16,
+	low: 30.72,
+	day: 71
+},
+{
+	remainingDays: 178,
+	open: 30.99,
+	close: 31.08,
+	high: 31.19,
+	low: 30.77,
+	day: 72
+},
+{
+	remainingDays: 177,
+	open: 31.27,
+	close: 31.44,
+	high: 31.61,
+	low: 31.2,
+	day: 73
+},
+{
+	remainingDays: 176,
+	open: 31.28,
+	close: 31.14,
+	high: 31.31,
+	low: 31.04,
+	day: 74
+},
+{
+	remainingDays: 175,
+	open: 31.13,
+	close: 31.01,
+	high: 31.68,
+	low: 30.94,
+	day: 75
+},
+{
+	remainingDays: 174,
+	open: 32.15,
+	close: 32.42,
+	high: 32.89,
+	low: 32.05,
+	day: 76
+},
+{
+	remainingDays: 173,
+	open: 32.31,
+	close: 32.12,
+	high: 32.5,
+	low: 32.03,
+	day: 77
+},
+{
+	remainingDays: 172,
+	open: 32.21,
+	close: 31.92,
+	high: 32.52,
+	low: 31.83,
+	day: 78
+},
+{
+	remainingDays: 171,
+	open: 31.92,
+	close: 32.2,
+	high: 32.32,
+	low: 31.87,
+	day: 79
+},
+{
+	remainingDays: 170,
+	open: 32.12,
+	close: 32.11,
+	high: 32.23,
+	low: 31.92,
+	day: 80
+},
+{
+	remainingDays: 169,
+	open: 32.12,
+	close: 31.98,
+	high: 32.22,
+	low: 31.88,
+	day: 81
+},
+{
+	remainingDays: 168,
+	open: 31.98,
+	close: 32.02,
+	high: 32.11,
+	low: 31.92,
+	day: 82
+},
+{
+	remainingDays: 167,
+	open: 32.05,
+	close: 32.01,
+	high: 32.34,
+	low: 31.95,
+	day: 83
+},
+{
+	remainingDays: 166,
+	open: 31.85,
+	close: 31.8,
+	high: 31.93,
+	low: 31.64,
+	day: 84
+},
+{
+	remainingDays: 165,
+	open: 31.88,
+	close: 31.76,
+	high: 31.9,
+	low: 31.61,
+	day: 85
+},
+{
+	remainingDays: 164,
+	open: 31.45,
+	close: 30.98,
+	high: 31.57,
+	low: 30.92,
+	day: 86
+},
+{
+	remainingDays: 163,
+	open: 30.7,
+	close: 30.65,
+	high: 30.86,
+	low: 30.57,
+	day: 87
+},
+{
+	remainingDays: 162,
+	open: 30.48,
+	close: 30.5,
+	high: 30.78,
+	low: 30.17,
+	day: 88
+},
+{
+	remainingDays: 161,
+	open: 30.19,
+	close: 30.76,
+	high: 30.83,
+	low: 30.1,
+	day: 89
+},
+{
+	remainingDays: 160,
+	open: 30.86,
+	close: 30.74,
+	high: 31.02,
+	low: 30.45,
+	day: 90
+},
+{
+	remainingDays: 159,
+	open: 30.69,
+	close: 31.16,
+	high: 31.54,
+	low: 30.69,
+	day: 91
+},
+{
+	remainingDays: 158,
+	open: 30.82,
+	close: 30.68,
+	high: 31.04,
+	low: 30.64,
+	day: 92
+},
+{
+	remainingDays: 157,
+	open: 30.64,
+	close: 30.21,
+	high: 30.8,
+	low: 30.15,
+	day: 93
+},
+{
+	remainingDays: 156,
+	open: 30.31,
+	close: 29.9,
+	high: 30.32,
+	low: 29.74,
+	day: 94
+},
+{
+	remainingDays: 155,
+	open: 29.99,
+	close: 29.72,
+	high: 30.21,
+	low: 29.71,
+	day: 95
+},
+{
+	remainingDays: 154,
+	open: 29.79,
+	close: 29.27,
+	high: 29.81,
+	low: 29.17,
+	day: 96
+},
+{
+	remainingDays: 153,
+	open: 29.1,
+	close: 29.75,
+	high: 29.79,
+	low: 29.06,
+	day: 97
+},
+{
+	remainingDays: 152,
+	open: 29.69,
+	close: 29.76,
+	high: 29.88,
+	low: 29.5,
+	day: 98
+},
+{
+	remainingDays: 151,
+	open: 29.35,
+	close: 29.11,
+	high: 29.4,
+	low: 28.64,
+	day: 99
+},
+{
+	remainingDays: 150,
+	open: 29.16,
+	close: 29.07,
+	high: 29.3,
+	low: 28.76,
+	day: 100
+},
+{
+	remainingDays: 149,
+	open: 29.2,
+	close: 29.06,
+	high: 29.36,
+	low: 29.01,
+	day: 101
+},
+{
+	remainingDays: 148,
+	open: 29.38,
+	close: 29.56,
+	high: 29.72,
+	low: 29.22,
+	day: 102
+},
+{
+	remainingDays: 147,
+	open: 29.35,
+	close: 29.34,
+	high: 29.48,
+	low: 29.12,
+	day: 103
+},
+{
+	remainingDays: 146,
+	open: 29.3,
+	close: 29.19,
+	high: 29.42,
+	low: 28.94,
+	day: 104
+},
+{
+	remainingDays: 145,
+	open: 28.76,
+	close: 28.45,
+	high: 28.96,
+	low: 28.44,
+	day: 105
+},
+{
+	remainingDays: 144,
+	open: 28.62,
+	close: 28.55,
+	high: 28.78,
+	low: 28.32,
+	day: 106
+},
+{
+	remainingDays: 143,
+	open: 28.51,
+	close: 28.51,
+	high: 28.75,
+	low: 28.39,
+	day: 107
+},
+{
+	remainingDays: 142,
+	open: 28.88,
+	close: 29.35,
+	high: 29.37,
+	low: 28.81,
+	day: 108
+},
+{
+	remainingDays: 141,
+	open: 29.64,
+	close: 29.23,
+	high: 29.7,
+	low: 29.17,
+	day: 109
+},
+{
+	remainingDays: 140,
+	open: 29.21,
+	close: 29.65,
+	high: 29.68,
+	low: 29.05,
+	day: 110
+},
+{
+	remainingDays: 139,
+	open: 29.73,
+	close: 28.9,
+	high: 29.81,
+	low: 28.82,
+	day: 111
+},
+{
+	remainingDays: 138,
+	open: 29.1,
+	close: 29.29,
+	high: 29.3,
+	low: 28.84,
+	day: 112
+},
+{
+	remainingDays: 137,
+	open: 29.22,
+	close: 29.13,
+	high: 29.44,
+	low: 29.05,
+	day: 113
+},
+{
+	remainingDays: 136,
+	open: 29.33,
+	close: 29.34,
+	high: 29.46,
+	low: 28.88,
+	day: 114
+},
+{
+	remainingDays: 135,
+	open: 29.59,
+	close: 30.02,
+	high: 30.08,
+	low: 29.49,
+	day: 115
+},
+{
+	remainingDays: 134,
+	open: 29.99,
+	close: 29.84,
+	high: 30.03,
+	low: 29.71,
+	day: 116
+},
+{
+	remainingDays: 133,
+	open: 30.19,
+	close: 30.7,
+	high: 31.11,
+	low: 30.05,
+	day: 117
+},
+{
+	remainingDays: 132,
+	open: 30.93,
+	close: 30.93,
+	high: 31.05,
+	low: 30.64,
+	day: 118
+},
+{
+	remainingDays: 131,
+	open: 30.96,
+	close: 30.14,
+	high: 31.14,
+	low: 30.06,
+	day: 119
+},
+{
+	remainingDays: 130,
+	open: 30.3,
+	close: 30.7,
+	high: 30.73,
+	low: 30.03,
+	day: 120
+},
+{
+	remainingDays: 129,
+	open: 30.3,
+	close: 29.87,
+	high: 30.32,
+	low: 29.62,
+	day: 121
+},
+{
+	remainingDays: 128,
+	open: 30,
+	close: 30.02,
+	high: 30.27,
+	low: 29.94,
+	day: 122
+},
+{
+	remainingDays: 127,
+	open: 30.19,
+	close: 30.17,
+	high: 30.5,
+	low: 30.03,
+	day: 123
+},
+{
+	remainingDays: 126,
+	open: 29.98,
+	close: 29.91,
+	high: 30.05,
+	low: 29.42,
+	day: 124
+},
+{
+	remainingDays: 125,
+	open: 30.45,
+	close: 30.59,
+	high: 30.69,
+	low: 30.14,
+	day: 125
+},
+{
+	remainingDays: 124,
+	open: 30.62,
+	close: 30.56,
+	high: 30.62,
+	low: 30.21,
+	day: 126
+},
+{
+	remainingDays: 123,
+	open: 30.23,
+	close: 30.76,
+	high: 30.76,
+	low: 30.17,
+	day: 127
+},
+{
+	remainingDays: 122,
+	open: 30.59,
+	close: 30.7,
+	high: 30.78,
+	low: 30.38,
+	day: 128
+},
+{
+	remainingDays: 121,
+	open: 30.61,
+	close: 30.19,
+	high: 30.7,
+	low: 29.95,
+	day: 129
+},
+{
+	remainingDays: 120,
+	open: 30.12,
+	close: 30,
+	high: 30.23,
+	low: 29.78,
+	day: 130
+},
+{
+	remainingDays: 119,
+	open: 30.08,
+	close: 29.74,
+	high: 30.22,
+	low: 29.51,
+	day: 131
+},
+{
+	remainingDays: 118,
+	open: 29.71,
+	close: 29.3,
+	high: 29.74,
+	low: 29.11,
+	day: 132
+},
+{
+	remainingDays: 117,
+	open: 29.15,
+	close: 28.63,
+	high: 29.18,
+	low: 28.54,
+	day: 133
+},
+{
+	remainingDays: 116,
+	open: 28.76,
+	close: 29.39,
+	high: 29.48,
+	low: 28.72,
+	day: 134
+},
+{
+	remainingDays: 115,
+	open: 29.48,
+	close: 29.44,
+	high: 29.53,
+	low: 29.04,
+	day: 135
+},
+{
+	remainingDays: 114,
+	open: 29.64,
+	close: 29.66,
+	high: 29.86,
+	low: 29.2,
+	day: 136
+},
+{
+	remainingDays: 113,
+	open: 29.6,
+	close: 30.45,
+	high: 30.45,
+	low: 29.46,
+	day: 137
+},
+{
+	remainingDays: 112,
+	open: 30.51,
+	close: 30.67,
+	high: 30.8,
+	low: 30.38,
+	day: 138
+},
+{
+	remainingDays: 111,
+	open: 31,
+	close: 30.12,
+	high: 31.05,
+	low: 30.05,
+	day: 139
+},
+{
+	remainingDays: 110,
+	open: 29.57,
+	close: 29.28,
+	high: 29.58,
+	low: 29.01,
+	day: 140
+},
+{
+	remainingDays: 109,
+	open: 29.24,
+	close: 29.15,
+	high: 29.36,
+	low: 28.9,
+	day: 141
+},
+{
+	remainingDays: 108,
+	open: 29.24,
+	close: 28.83,
+	high: 29.33,
+	low: 28.78,
+	day: 142
+},
+{
+	remainingDays: 107,
+	open: 29.23,
+	close: 29.16,
+	high: 29.5,
+	low: 29.09,
+	day: 143
+},
+{
+	remainingDays: 106,
+	open: 29.48,
+	close: 29.76,
+	high: 29.85,
+	low: 29.18,
+	day: 144
+},
+{
+	remainingDays: 105,
+	open: 29.75,
+	close: 29.64,
+	high: 29.82,
+	low: 29.46,
+	day: 145
+},
+{
+	remainingDays: 104,
+	open: 29.48,
+	close: 29.47,
+	high: 29.71,
+	low: 29.33,
+	day: 146
+},
+{
+	remainingDays: 103,
+	open: 29.59,
+	close: 29.41,
+	high: 29.65,
+	low: 29.21,
+	day: 147
+},
+{
+	remainingDays: 102,
+	open: 29.21,
+	close: 29.19,
+	high: 29.53,
+	low: 28.97,
+	day: 148
+},
+{
+	remainingDays: 101,
+	open: 29.53,
+	close: 29.75,
+	high: 29.94,
+	low: 29.48,
+	day: 149
+},
+{
+	remainingDays: 100,
+	open: 30,
+	close: 29.95,
+	high: 30.11,
+	low: 29.81,
+	day: 150
+},
+{
+	remainingDays: 99,
+	open: 30.07,
+	close: 30.26,
+	high: 30.35,
+	low: 29.87,
+	day: 151
+},
+{
+	remainingDays: 98,
+	open: 30.21,
+	close: 30.33,
+	high: 30.47,
+	low: 30.11,
+	day: 152
+},
+{
+	remainingDays: 97,
+	open: 30.39,
+	close: 30.5,
+	high: 30.65,
+	low: 30.3,
+	day: 153
+},
+{
+	remainingDays: 96,
+	open: 30.5,
+	close: 30.42,
+	high: 30.62,
+	low: 30.25,
+	day: 154
+},
+{
+	remainingDays: 95,
+	open: 30.35,
+	close: 30.39,
+	high: 30.46,
+	low: 30.16,
+	day: 155
+},
+{
+	remainingDays: 94,
+	open: 30.3,
+	close: 30.13,
+	high: 30.39,
+	low: 30.01,
+	day: 156
+},
+{
+	remainingDays: 93,
+	open: 30.11,
+	close: 30.2,
+	high: 30.28,
+	low: 30.02,
+	day: 157
+},
+{
+	remainingDays: 92,
+	open: 30.36,
+	close: 30.78,
+	high: 30.94,
+	low: 30.26,
+	day: 158
+},
+{
+	remainingDays: 91,
+	open: 30.92,
+	close: 30.9,
+	high: 30.92,
+	low: 30.59,
+	day: 159
+},
+{
+	remainingDays: 90,
+	open: 30.82,
+	close: 30.74,
+	high: 30.85,
+	low: 30.58,
+	day: 160
+},
+{
+	remainingDays: 89,
+	open: 30.76,
+	close: 30.8,
+	high: 30.96,
+	low: 30.61,
+	day: 161
+},
+{
+	remainingDays: 88,
+	open: 30.59,
+	close: 30.54,
+	high: 30.76,
+	low: 30.47,
+	day: 162
+},
+{
+	remainingDays: 87,
+	open: 30.39,
+	close: 30.26,
+	high: 30.4,
+	low: 30.08,
+	day: 163
+},
+{
+	remainingDays: 86,
+	open: 30.25,
+	close: 30.56,
+	high: 30.63,
+	low: 30.18,
+	day: 164
+},
+{
+	remainingDays: 85,
+	open: 30.93,
+	close: 30.69,
+	high: 30.96,
+	low: 30.59,
+	day: 165
+},
+{
+	remainingDays: 84,
+	open: 30.7,
+	close: 30.63,
+	high: 30.8,
+	low: 30.52,
+	day: 166
+},
+{
+	remainingDays: 83,
+	open: 30.65,
+	close: 30.65,
+	high: 30.75,
+	low: 30.44,
+	day: 167
+},
+{
+	remainingDays: 82,
+	open: 30.53,
+	close: 30.32,
+	high: 30.61,
+	low: 30.22,
+	day: 168
+},
+{
+	remainingDays: 81,
+	open: 30.6,
+	close: 30.82,
+	high: 30.96,
+	low: 30.38,
+	day: 169
+},
+{
+	remainingDays: 80,
+	open: 30.45,
+	close: 30.39,
+	high: 30.66,
+	low: 30.15,
+	day: 170
+},
+{
+	remainingDays: 79,
+	open: 30.22,
+	close: 30.39,
+	high: 30.53,
+	low: 30.21,
+	day: 171
+},
+{
+	remainingDays: 78,
+	open: 30.5,
+	close: 31.35,
+	high: 31.36,
+	low: 30.46,
+	day: 172
+},
+{
+	remainingDays: 77,
+	open: 31.04,
+	close: 30.95,
+	high: 31.07,
+	low: 30.73,
+	day: 173
+},
+{
+	remainingDays: 76,
+	open: 30.83,
+	close: 30.72,
+	high: 30.9,
+	low: 30.51,
+	day: 174
+},
+{
+	remainingDays: 75,
+	open: 30.69,
+	close: 30.79,
+	high: 30.91,
+	low: 30.61,
+	day: 175
+},
+{
+	remainingDays: 74,
+	open: 30.94,
+	close: 30.78,
+	high: 31.18,
+	low: 30.73,
+	day: 176
+},
+{
+	remainingDays: 73,
+	open: 30.89,
+	close: 30.94,
+	high: 31.18,
+	low: 30.4,
+	day: 177
+},
+{
+	remainingDays: 72,
+	open: 31.01,
+	close: 31.21,
+	high: 31.25,
+	low: 30.81,
+	day: 178
+},
+{
+	remainingDays: 71,
+	open: 31.19,
+	close: 31.21,
+	high: 31.26,
+	low: 31.04,
+	day: 179
+},
+{
+	remainingDays: 70,
+	open: 31.1,
+	close: 31.18,
+	high: 31.21,
+	low: 31.03,
+	day: 180
+},
+{
+	remainingDays: 69,
+	open: 31.09,
+	close: 31.05,
+	high: 31.19,
+	low: 31.04,
+	day: 181
+},
+{
+	remainingDays: 68,
+	open: 30.95,
+	close: 31.45,
+	high: 31.48,
+	low: 30.91,
+	day: 182
+},
+{
+	remainingDays: 67,
+	open: 31.43,
+	close: 31.19,
+	high: 31.61,
+	low: 31.09,
+	day: 183
+},
+{
+	remainingDays: 66,
+	open: 31,
+	close: 30.78,
+	high: 31.07,
+	low: 30.64,
+	day: 184
+},
+{
+	remainingDays: 65,
+	open: 30.95,
+	close: 30.39,
+	high: 31,
+	low: 30.36,
+	day: 185
+},
+{
+	remainingDays: 64,
+	open: 30.28,
+	close: 30.17,
+	high: 30.6,
+	low: 30.04,
+	day: 186
+},
+{
+	remainingDays: 63,
+	open: 30.17,
+	close: 30.16,
+	high: 30.4,
+	low: 29.89,
+	day: 187
+},
+{
+	remainingDays: 62,
+	open: 30.18,
+	close: 29.76,
+	high: 30.26,
+	low: 29.74,
+	day: 188
+},
+{
+	remainingDays: 61,
+	open: 29.81,
+	close: 29.49,
+	high: 29.98,
+	low: 29.42,
+	day: 189
+},
+{
+	remainingDays: 60,
+	open: 29.68,
+	close: 29.66,
+	high: 29.89,
+	low: 29.5,
+	day: 190
+},
+{
+	remainingDays: 59,
+	open: 29.75,
+	close: 29.86,
+	high: 29.99,
+	low: 29.67,
+	day: 191
+},
+{
+	remainingDays: 58,
+	open: 29.97,
+	close: 30.03,
+	high: 30.03,
+	low: 29.57,
+	day: 192
+},
+{
+	remainingDays: 57,
+	open: 30.23,
+	close: 29.85,
+	high: 30.25,
+	low: 29.74,
+	day: 193
+},
+{
+	remainingDays: 56,
+	open: 29.64,
+	close: 29.78,
+	high: 29.92,
+	low: 29.55,
+	day: 194
+},
+{
+	remainingDays: 55,
+	open: 29.68,
+	close: 29.28,
+	high: 29.74,
+	low: 29.18,
+	day: 195
+},
+{
+	remainingDays: 54,
+	open: 29.15,
+	close: 28.98,
+	high: 29.31,
+	low: 28.95,
+	day: 196
+},
+{
+	remainingDays: 53,
+	open: 29.22,
+	close: 28.95,
+	high: 29.25,
+	low: 28.87,
+	day: 197
+},
+{
+	remainingDays: 52,
+	open: 28.97,
+	close: 29.2,
+	high: 29.32,
+	low: 28.8,
+	day: 198
+},
+{
+	remainingDays: 51,
+	open: 29.37,
+	close: 29.51,
+	high: 29.72,
+	low: 29.25,
+	day: 199
+},
+{
+	remainingDays: 50,
+	open: 29.45,
+	close: 29.49,
+	high: 29.74,
+	low: 29.32,
+	day: 200
+},
+{
+	remainingDays: 49,
+	open: 29.3,
+	close: 29.59,
+	high: 29.64,
+	low: 29.09,
+	day: 201
+},
+{
+	remainingDays: 48,
+	open: 29.65,
+	close: 29.5,
+	high: 29.73,
+	low: 29.26,
+	day: 202
+},
+{
+	remainingDays: 47,
+	open: 29.05,
+	close: 28.64,
+	high: 29.08,
+	low: 28.5,
+	day: 203
+},
+{
+	remainingDays: 46,
+	open: 28.73,
+	close: 28,
+	high: 28.83,
+	low: 27.83,
+	day: 204
+},
+{
+	remainingDays: 45,
+	open: 27.77,
+	close: 28.05,
+	high: 28.2,
+	low: 27.76,
+	day: 205
+},
+{
+	remainingDays: 44,
+	open: 28.16,
+	close: 27.9,
+	high: 28.2,
+	low: 27.87,
+	day: 206
+},
+{
+	remainingDays: 43,
+	open: 28.19,
+	close: 27.88,
+	high: 28.2,
+	low: 27.86,
+	day: 207
+},
+{
+	remainingDays: 42,
+	open: 27.86,
+	close: 28.21,
+	high: 28.34,
+	low: 27.84,
+	day: 208
+},
+{
+	remainingDays: 41,
+	open: 28.55,
+	close: 28.54,
+	high: 28.88,
+	low: 28.5,
+	day: 209
+},
+{
+	remainingDays: 40,
+	open: 28.84,
+	close: 29.52,
+	high: 29.56,
+	low: 28.82,
+	day: 210
+},
+{
+	remainingDays: 39,
+	open: 29.59,
+	close: 29.5,
+	high: 29.77,
+	low: 29.33,
+	day: 211
+},
+{
+	remainingDays: 38,
+	open: 29.62,
+	close: 29.63,
+	high: 29.74,
+	low: 29.33,
+	day: 212
+},
+{
+	remainingDays: 37,
+	open: 29.82,
+	close: 29.86,
+	high: 30.2,
+	low: 29.61,
+	day: 213
+},
+{
+	remainingDays: 36,
+	open: 29.53,
+	close: 29.08,
+	high: 29.83,
+	low: 29.05,
+	day: 214
+},
+{
+	remainingDays: 35,
+	open: 29.12,
+	close: 28.81,
+	high: 29.37,
+	low: 28.8,
+	day: 215
+},
+{
+	remainingDays: 34,
+	open: 28.88,
+	close: 28.83,
+	high: 29.19,
+	low: 28.81,
+	day: 216
+},
+{
+	remainingDays: 33,
+	open: 28.94,
+	close: 28.22,
+	high: 29.01,
+	low: 28.21,
+	day: 217
+},
+{
+	remainingDays: 32,
+	open: 27.02,
+	close: 27.09,
+	high: 27.3,
+	low: 26.75,
+	day: 218
+},
+{
+	remainingDays: 31,
+	open: 27.24,
+	close: 26.84,
+	high: 27.29,
+	low: 26.8,
+	day: 219
+},
+{
+	remainingDays: 30,
+	open: 26.88,
+	close: 26.66,
+	high: 26.97,
+	low: 26.63,
+	day: 220
+},
+{
+	remainingDays: 29,
+	open: 26.67,
+	close: 26.52,
+	high: 26.7,
+	low: 26.34,
+	day: 221
+},
+{
+	remainingDays: 28,
+	open: 26.8,
+	close: 26.73,
+	high: 26.8,
+	low: 26.47,
+	day: 222
+},
+{
+	remainingDays: 27,
+	open: 26.76,
+	close: 26.71,
+	high: 26.8,
+	low: 26.46,
+	day: 223
+},
+{
+	remainingDays: 26,
+	open: 26.71,
+	close: 26.95,
+	high: 27.17,
+	low: 26.67,
+	day: 224
+},
+{
+	remainingDays: 25,
+	open: 27.23,
+	close: 27.7,
+	high: 27.77,
+	low: 27.2,
+	day: 225
+},
+{
+	remainingDays: 24,
+	open: 27.54,
+	close: 27.39,
+	high: 27.58,
+	low: 27.17,
+	day: 226
+},
+{
+	remainingDays: 23,
+	open: 27.36,
+	close: 27.08,
+	high: 27.38,
+	low: 27.04,
+	day: 227
+},
+{
+	remainingDays: 22,
+	open: 27.01,
+	close: 27.36,
+	high: 27.39,
+	low: 26.77,
+	day: 228
+},
+{
+	remainingDays: 21,
+	open: 27.11,
+	close: 26.95,
+	high: 27.36,
+	low: 26.86,
+	day: 229
+},
+{
+	remainingDays: 20,
+	open: 27.05,
+	close: 26.62,
+	high: 27.13,
+	low: 26.49,
+	day: 230
+},
+{
+	remainingDays: 19,
+	open: 26.78,
+	close: 26.43,
+	high: 26.82,
+	low: 26.4,
+	day: 231
+},
+{
+	remainingDays: 18,
+	open: 26.5,
+	close: 26.37,
+	high: 26.63,
+	low: 26.34,
+	day: 232
+},
+{
+	remainingDays: 17,
+	open: 26.38,
+	close: 26.67,
+	high: 26.93,
+	low: 26.26,
+	day: 233
+},
+{
+	remainingDays: 16,
+	open: 26.81,
+	close: 26.73,
+	high: 26.98,
+	low: 26.61,
+	day: 234
+},
+{
+	remainingDays: 15,
+	open: 26.82,
+	close: 26.46,
+	high: 26.82,
+	low: 26.37,
+	day: 235
+},
+{
+	remainingDays: 14,
+	open: 26.56,
+	close: 26.94,
+	high: 26.97,
+	low: 26.52,
+	day: 236
+},
+{
+	remainingDays: 13,
+	open: 27.05,
+	close: 27.32,
+	high: 27.49,
+	low: 27.05,
+	day: 237
+},
+{
+	remainingDays: 12,
+	open: 27.53,
+	close: 27.24,
+	high: 27.62,
+	low: 27.08,
+	day: 238
+},
+{
+	remainingDays: 11,
+	open: 27.32,
+	close: 27.11,
+	high: 27.52,
+	low: 26.95,
+	day: 239
+},
+{
+	remainingDays: 10,
+	open: 27.11,
+	close: 26.81,
+	high: 27.13,
+	low: 26.7,
+	day: 240
+},
+{
+	remainingDays: 9,
+	open: 26.79,
+	close: 27.1,
+	high: 27.22,
+	low: 26.68,
+	day: 241
+},
+{
+	remainingDays: 8,
+	open: 27.25,
+	close: 27.56,
+	high: 27.63,
+	low: 27.14,
+	day: 242
+},
+{
+	remainingDays: 7,
+	open: 27.69,
+	close: 27.31,
+	high: 27.73,
+	low: 27.25,
+	day: 243
+},
+{
+	remainingDays: 6,
+	open: 27.36,
+	close: 27.68,
+	high: 27.68,
+	low: 27.15,
+	day: 244
+},
+{
+	remainingDays: 5,
+	open: 27.45,
+	close: 27.45,
+	high: 27.49,
+	low: 27,
+	day: 245
+},
+{
+	remainingDays: 4,
+	open: 27.2,
+	close: 27.06,
+	high: 27.25,
+	low: 27,
+	day: 246
+},
+{
+	remainingDays: 3,
+	open: 27.03,
+	close: 26.86,
+	high: 27.2,
+	low: 26.7,
+	day: 247
+},
+{
+	remainingDays: 2,
+	open: 26.89,
+	close: 26.96,
+	high: 27.09,
+	low: 26.57,
+	day: 248
+},
+{
+	remainingDays: 1,
+	open: 26.71,
+	close: 26.55,
+	high: 26.9,
+	low: 26.55,
+	day: 249
+},
+{
+	remainingDays: 0,
+	open: 26.59,
+	close: 26.71,
+	high: 26.77,
+	low: 26.37,
+	day: 250
+}]

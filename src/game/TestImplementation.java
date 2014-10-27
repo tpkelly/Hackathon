@@ -7,7 +7,7 @@ import dataobjects.GameOutput;
 import exceptions.GameFailureException;
 
 public class TestImplementation {
-	static final int initialFunds = 10000;
+	private static final int INITIAL_CAPITAL = 10000;
 
 	public static void main(String[] args) throws GameFailureException {
 
@@ -15,7 +15,7 @@ public class TestImplementation {
 		int totalFunds = 0;
 
 		for (String company : GameDataResolver.COMPANIES) {
-			TradingManager tradingManager = new TradingManager(initialFunds, 0);
+			TradingManager tradingManager = new TradingManager(INITIAL_CAPITAL, 0);
 
 			BaseTradingStrategy strategy = new TradingStrategy(tradingManager);
 			GameData data = GameDataResolver.getInstance().getGameData(company);
@@ -23,12 +23,12 @@ public class TestImplementation {
 
 			GameOutput output = game.getResult();
 
-			int profit = output.getTotalFunds() - initialFunds;
+			int profit = output.getTotalFunds() - INITIAL_CAPITAL;
 			System.out.println(company + ": £" + profit);
 			totalFunds += output.getTotalFunds();
 		}
 
-		int totalProfit = totalFunds - GameDataResolver.COMPANIES.size() * initialFunds;
+		int totalProfit = totalFunds - GameDataResolver.COMPANIES.size() * INITIAL_CAPITAL;
 		System.out.println("Total profit: £" + totalProfit);
 		System.out.println("Final funds: £" + totalFunds);
 	}

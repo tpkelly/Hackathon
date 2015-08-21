@@ -1,9 +1,9 @@
 package trading;
 
-import game.DailyOutput;
 import game.TradingManager;
 import tradingstrategy.BaseTradingStrategy;
 import dataobjects.DailyInput;
+import dataobjects.DailyTrades;
 import exceptions.InsufficientFundsException;
 import exceptions.InsufficientSharesException;
 
@@ -14,18 +14,15 @@ public class TradingStrategy extends BaseTradingStrategy {
 	}
 
 	@Override
-	public DailyOutput makeDailyTrade(DailyInput input) throws InsufficientFundsException, InsufficientSharesException {
+	public void makeDailyTrade(DailyTrades trades) throws InsufficientFundsException, InsufficientSharesException {
 		//use the trading manager to make trades based on input
 		
-		
-		DailyOutput output;
-		if (input.getDay() % 2 == 0) {
-			output = tradingManager.buyMaxNumberOfShares(input);
-		} else {
-			output = tradingManager.sellAllShares(input);
+		for (DailyInput input : trades.getTrades()) {
+			if (trades.getDay() % 2 == 1) {
+				tradingManager.buyMaxNumberOfShares(input);
+			} else {
+				tradingManager.sellAllShares(input);
+			}
 		}
-		
-		return output;
 	}
-
 }

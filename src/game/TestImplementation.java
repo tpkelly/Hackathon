@@ -10,26 +10,13 @@ public class TestImplementation {
 	private static final int INITIAL_CAPITAL = 10000;
 
 	public static void main(String[] args) throws GameFailureException {
+		TradingManager tradingManager = new TradingManager(INITIAL_CAPITAL, 0);
 
-		System.out.println("Profit breakdown:");
-		int totalFunds = 0;
+		BaseTradingStrategy strategy = new TradingStrategy(tradingManager);
+		GameData data = GameDataResolver.getInstance().getGameData();
+		Game game = new Game(strategy, data);
 
-		for (String company : GameDataResolver.COMPANIES) {
-			TradingManager tradingManager = new TradingManager(INITIAL_CAPITAL, 0);
-
-			BaseTradingStrategy strategy = new TradingStrategy(tradingManager);
-			GameData data = GameDataResolver.getInstance().getGameData(company);
-			Game game = new Game(strategy, data);
-
-			GameOutput output = game.getResult();
-
-			int profit = output.getTotalFunds() - INITIAL_CAPITAL;
-			System.out.println(company + ": £" + profit);
-			totalFunds += output.getTotalFunds();
-		}
-
-		int totalProfit = totalFunds - GameDataResolver.COMPANIES.size() * INITIAL_CAPITAL;
-		System.out.println("Total profit: £" + totalProfit);
-		System.out.println("Final funds: £" + totalFunds);
+		GameOutput output = game.getResult();
+		System.out.println("Final funds: �" + output.getTotalFunds());
 	}
 }

@@ -39,10 +39,5 @@
 			<type>2</type>
 			<locationURI>PARENT-1-PROJECT_LOC/cli/src/trading</locationURI>
 		</link>
-		<link>
-			<name>WebContent/WEB-INF/lib</name>
-			<type>2</type>
-			<locationURI>PARENT-1-PROJECT_LOC/lib</locationURI>
-		</link>
 	</linkedResources>
 </projectDescription>

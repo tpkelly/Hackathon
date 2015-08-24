@@ -7,10 +7,10 @@ import dataobjects.GameOutput;
 import exceptions.GameFailureException;
 
 public class TestImplementation {
-	private static final int INITIAL_CAPITAL = 10000;
+	private static final int INITIAL_CAPITAL = 30000;
 
 	public static void main(String[] args) throws GameFailureException {
-		TradingManager tradingManager = new TradingManager(INITIAL_CAPITAL, 0);
+		TradingManager tradingManager = new TradingManager(INITIAL_CAPITAL);
 
 		BaseTradingStrategy strategy = new TradingStrategy(tradingManager);
 		GameData data = GameDataResolver.getInstance().getGameData();

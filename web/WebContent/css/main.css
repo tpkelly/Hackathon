@@ -1,0 +1,64 @@
+body {
+	font-family: 'Helvetica','Arial',sans-serif;
+	margin-top: 0;
+	width: 1140px;
+	margin: auto;	
+	color: #666;
+}
+.logo {
+	background-image: url("http://www.scottlogic.com/media/logo_secondary.svg");
+	height: 24px;
+	
+	width: 100%;
+	max-width: 448px;
+	overflow: hidden;
+	display: inline-block;
+	text-indent: -100%;
+	overflow: hidden;
+	background-repeat: no-repeat;
+	-webkit-background-size: contain;
+	-moz-background-size: contain;
+	-o-background-size: contain;
+	background-size: contain;
+	margin-top: 3px;
+}
+header {
+	padding: 14px 60px;
+	background: #231f20;
+}
+
+footer {
+	background: #231f20;
+	padding: 20px;
+}
+
+header h1, footer h1 {
+	color: white;
+	float: right;
+	font-size: 24px;
+	font-weight: normal;
+	margin: 0;
+}
+footer::after {
+	content: "";
+	clear: both;
+	display: block;
+}
+.total {
+	float: right;
+	font-size: 24px;
+}
+ul {
+	list-style-type: none;
+	padding:0; 
+	margin:0;
+}
+li {
+	padding: 20px;
+}
+li:nth-child(even){
+    background: #F5F5F5;
+}
+li h1 {
+	margin: 0;
+}

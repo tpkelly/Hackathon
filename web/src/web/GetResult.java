@@ -1,6 +1,4 @@
-package game;
-
-import implementation.TradingStrategy;
+package web;
 
 import java.io.IOException;
 import java.util.LinkedList;
@@ -17,6 +15,11 @@ import dataobjects.DailyTrades;
 import dataobjects.GameData;
 import dataobjects.GameOutput;
 import exceptions.GameFailureException;
+import game.DailyOutput;
+import game.Game;
+import game.GameDataResolver;
+import game.TradingManager;
+import trading.TradingStrategy;
 
 public class GetResult extends HttpServlet {
 

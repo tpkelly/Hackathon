@@ -12,12 +12,12 @@
   
   <servlet>
   	<servlet-name>GetResult</servlet-name>
-  	<servlet-class>game.GetResult</servlet-class>
+  	<servlet-class>web.GetResult</servlet-class>
   </servlet>
   
   <servlet>
   	<servlet-name>GetDailyInput</servlet-name>
-  	<servlet-class>game.GetDailyInput</servlet-class>
+  	<servlet-class>web.GetDailyInput</servlet-class>
   </servlet>
   
   <servlet-mapping>
@@ -29,5 +29,5 @@
   	<servlet-name>GetDailyInput</servlet-name>
   	<url-pattern>/getDailyInput</url-pattern>
   </servlet-mapping>
-  
+
 </web-app>

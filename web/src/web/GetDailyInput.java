@@ -1,4 +1,4 @@
-package game;
+package web;
 
 import java.io.IOException;
 import java.util.List;
@@ -12,6 +12,7 @@ import org.codehaus.jackson.map.ObjectMapper;
 
 import dataobjects.DailyTrades;
 import dataobjects.GameData;
+import game.GameDataResolver;
 
 public class GetDailyInput extends HttpServlet {
 

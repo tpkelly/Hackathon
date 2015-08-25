@@ -2,7 +2,6 @@ package game;
 
 import trading.TradingStrategy;
 import tradingstrategy.BaseTradingStrategy;
-import dataobjects.GameData;
 import dataobjects.GameOutput;
 import exceptions.GameFailureException;
 
@@ -13,8 +12,7 @@ public class TestImplementation {
 		TradingManager tradingManager = new TradingManager(INITIAL_CAPITAL);
 
 		BaseTradingStrategy strategy = new TradingStrategy(tradingManager);
-		GameData data = GameDataResolver.getInstance().getGameData();
-		Game game = new Game(strategy, data);
+		Game game = new Game(strategy);
 
 		GameOutput output = game.getResult();
 		System.out.println("Final funds: £" + output.getTotalFunds());

@@ -15,19 +15,9 @@
   	<servlet-class>web.GetResult</servlet-class>
   </servlet>
   
-  <servlet>
-  	<servlet-name>GetDailyInput</servlet-name>
-  	<servlet-class>web.GetDailyInput</servlet-class>
-  </servlet>
-  
   <servlet-mapping>
   	<servlet-name>GetResult</servlet-name>
   	<url-pattern>/getResult</url-pattern>
-  </servlet-mapping>
-  
-  <servlet-mapping>
-  	<servlet-name>GetDailyInput</servlet-name>
-  	<url-pattern>/getDailyInput</url-pattern>
   </servlet-mapping>
 
 </web-app>

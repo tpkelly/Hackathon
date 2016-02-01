@@ -12,7 +12,7 @@ To get started with the Scott Logic Hackathon:
 * Fill in the Hackathon/src/trading/TradingStrategy to do trading
 
 The "hackathon-webapp" project is an optional extra which visualises the profits through the year. It uses the same TradingStrategy as in the command line version.
-To run, you will need a local [Tomcat Webserver](http://tomcat.apache.org/index.html).
+To run, you will need a local [Tomcat Webserver v7.0](http://tomcat.apache.org/index.html).
 
 * Right click "hackathon-webapp" project -> Run as -> Run on Server
 * If not already configured, add the Tomcat server as a resource

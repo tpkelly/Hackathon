@@ -6,7 +6,8 @@ To get started with the Scott Logic Hackathon:
 * Download source as a zip and extract.
 * Open [Eclipse](https://www.eclipse.org/downloads/) and right-click the Package Explorer
 * Import -> General -> Existing Projects into Workspace
-* Browse to unzipped project, select both "Hackathon" and "hackathon-webapp". Click Finish.
+* Browse to unzipped project, select both "Hackathon" and "hackathon-webapp".
+* Make sure you are not copying project to workspace, and click Finish.
 * Right click Hackathon project -> Run As -> Java Application.
 * Fill in the Hackathon/src/trading/TradingStrategy to do trading
 

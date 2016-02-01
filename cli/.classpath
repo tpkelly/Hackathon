@@ -4,7 +4,7 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="lib" path="lib/ShareTrading-0.1.0-SNAPSHOT.jar">
 		<attributes>
-			<attribute name="javadoc_location" value="jar:file:/C:/tkelly/Repos/Hackathon/lib/ShareTrading-0.1.0-SNAPSHOT-javadoc.jar!/"/>
+			<attribute name="javadoc_location" value="jar:lib/ShareTrading-0.1.0-SNAPSHOT-javadoc.jar!/"/>
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="output" path="bin"/>

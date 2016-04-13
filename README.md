@@ -5,16 +5,18 @@ To get started with the Scott Logic Hackathon:
 
 * Download source as a zip and extract.
 * Open [Eclipse](https://www.eclipse.org/downloads/) and right-click the Package Explorer
-* Import -> General -> Existing Projects into Workspace
-* Browse to unzipped project, select both "Hackathon" and "hackathon-webapp".
-* Make sure you are not copying project to workspace, and click Finish.
-* Right click Hackathon project -> Run As -> Java Application.
-* Fill in the Hackathon/src/trading/TradingStrategy to do trading
+* Go to **File -> Import...**
+* Select **General -> Existing Projects into Workspace** as an import source
+* Check **Select root directory** and browse to unzipped project
+* Select the **Hackathon** project
+* Click **Finish**
 
-The "hackathon-webapp" project is an optional extra which visualises the profits through the year. It uses the same TradingStrategy as in the command line version.
-To run, you will need a local [Tomcat Webserver v7.0](http://tomcat.apache.org/index.html).
+Developing and running your algorithm:
+* Edit the **madeDailyTrade()** function in **Hackathon/src/trading/TradingStrategy**
+* Open **doc/index.html** in a browser to view the function documentation
+* To run your algorithm, right click the Hackathon project in the package explorer and select **Run As -> Java Application**
+* Your final funds will be displayed in the console window
 
-* Right click "hackathon-webapp" project -> Run as -> Run on Server
-* If not already configured, add the Tomcat server as a resource
-* Open up http://localhost:8080/hackathon.
-* If the TradingStrategy is changed, the hackathon-webapp will need to be cleaned and redeployed to see new results.
+The coding challenges can be found [here](https://hackathon-challenges.azurewebsites.net/). Remember any money earned is added to your starting total!
+
+Please ask us if you have any questions!

@@ -1,4 +1,4 @@
-Scott Logic Hackathon 2015
+Scott Logic Hackathon 2016
 ==========================
 
 To get started with the Scott Logic Hackathon:
